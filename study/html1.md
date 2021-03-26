@@ -9,15 +9,15 @@
 
 그럼 태그들의 간단한 설명을 하겠다
 
-&lt;head>, &lt;/head &gt;
+&lt;head>, &lt;/head&gt;
 
 화면에 나타나지 않는 html 문서의 속성 설정이다
 
-&lt;body>, &lt;/body &gt;
+&lt;body>, &lt;/body&gt;
 
 화면에 나타나는 내용물을 넣는다
 
-&lt;p>, &lt;/p &gt;
+&lt;p>, &lt;/p&gt;
 글자의 속성을 지정한다
 
 오늘 수업은 이것으로 끝냅니다
