@@ -1,4 +1,4 @@
-<p style="font-size:20">이곳에서는 아래의 규정을 지켜 WORKSPACE를 사용해야 합니다.
+<p style="font-size:20; font-weight: bold">이곳에서는 아래의 규정을 지켜 WORKSPACE를 사용해야 합니다.<br>
 이를 어길시에는 관리자 권한으로 퇴출 시킬 수 있습니다</p>
 
 <h4>1조</h4>
